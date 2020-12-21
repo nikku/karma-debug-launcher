@@ -1,7 +1,7 @@
 {
   "name": "karma-debug-launcher",
   "description": "Opens your test suites debug view in your favorite browser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "keywords": [
     "karma-plugin",

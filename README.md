@@ -10,7 +10,7 @@ Automatically open your Karma spec in your favorite browser. An imaginary launch
 Install the utility via [npm](https://www.npmjs.com/package/karma-debug-launcher):
 
 ```sh
-npm install
+npm install karma-debug-launcher
 ```
 
 Integrate it as a browser in your `karma.config.js`:

@@ -5,3 +5,7 @@ All notable changes to [karma-debug-launcher](https://github.com/nikku/karma-deb
 ## Unreleased
 
 ___Note:__ Yet to be released changes appear here._
+
+## 0.0.1
+
+_Initial Release._

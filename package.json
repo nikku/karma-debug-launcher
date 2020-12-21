@@ -3,7 +3,12 @@
   "description": "Opens your test suites debug view in your favorite browser",
   "version": "0.0.1",
   "main": "lib/index.js",
-  "keywords": [],
+  "keywords": [
+    "karma-plugin",
+    "karma-launcher",
+    "open",
+    "debug"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/nikku/karma-debug-launcher"

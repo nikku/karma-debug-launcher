@@ -2,7 +2,7 @@
 
 [![CI Status](https://img.shields.io/github/workflow/status/nikku/karma-debug-launcher/CI/main)](https://github.com/nikku/karma-debug-launcher/actions?query=workflow%3ACI)
 
-Template for my node-based projects.
+Automatically open your Karma spec in your favorite browser. An imaginary launcher.
 
 
 ## Usage

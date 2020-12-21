@@ -1,13 +1,13 @@
 import { expect } from 'chai';
 
-import Project from '..';
+import LauncherExport from '..';
 
-describe('node-project', function() {
+describe('karma-debug-launcher', function() {
 
-  it('should expose export', function() {
+  it('should expose launcher:Debug', function() {
 
     // then
-    expect(Project).to.exist;
+    expect(LauncherExport).to.have.key('launcher:Debug');
   });
 
 });

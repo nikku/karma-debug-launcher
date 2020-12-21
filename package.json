@@ -1,12 +1,12 @@
 {
-  "name": "node-project",
-  "description": "Node project description",
+  "name": "karma-debug-launcher",
+  "description": "Opens your test suites debug view in your favorite browser",
   "version": "0.0.0",
   "main": "lib/index.js",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nikku/node-project"
+    "url": "https://github.com/nikku/karma-debug-launcher"
   },
   "author": "Nico Rehwaldt <https://github.com/nikku>",
   "engines": {
@@ -26,5 +26,9 @@
     "esm": "^3.2.25",
     "mocha": "^8.2.1",
     "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "open-cli": "^6.0.1",
+    "which": "^2.0.2"
   }
 }

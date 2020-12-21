@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to [node-project](https://github.com/nikku/node-project) are documented here. We use [semantic versioning](http://semver.org/) for releases.
+All notable changes to [karma-debug-launcher](https://github.com/nikku/karma-debug-launcher) are documented here. We use [semantic versioning](http://semver.org/) for releases.
 
 ## Unreleased
 

@@ -1,16 +1,29 @@
-# node-project
+# karma-debug-launcher
 
-[![CI Status](https://img.shields.io/github/workflow/status/nikku/node-project/CI/main)](https://github.com/nikku/node-project/actions?query=workflow%3ACI)
+[![CI Status](https://img.shields.io/github/workflow/status/nikku/karma-debug-launcher/CI/main)](https://github.com/nikku/karma-debug-launcher/actions?query=workflow%3ACI)
 
 Template for my node-based projects.
 
 
 ## Usage
 
-Install the utility via [npm](https://www.npmjs.com/package/bpmnlint):
+Install the utility via [npm](https://www.npmjs.com/package/karma-debug-launcher):
 
 ```sh
 npm install
+```
+
+Integrate it as a browser in your `karma.config.js`:
+
+```javascript
+module.exports = function(karma) {
+
+  karma.set({
+    ...,
+
+    browsers: [ 'Debug' ]
+  });
+};
 ```
 
 

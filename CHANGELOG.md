@@ -6,6 +6,10 @@ All notable changes to [karma-debug-launcher](https://github.com/nikku/karma-deb
 
 ___Note:__ Yet to be released changes appear here._
 
+## 0.0.3
+
+* `CHORE`: make node-only utility (no need to execute CLI)
+
 ## 0.0.2
 
 * `CHORE`: documentation + keyword improvements
